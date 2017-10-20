@@ -1,0 +1,2 @@
+Feature : Data entry app
+Scenario : Add valid values to the datas set
